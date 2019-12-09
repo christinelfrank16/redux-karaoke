@@ -59,7 +59,7 @@ const mapStateToProps = state => {
     };
   }
   return {
-    song: songInfo
+    song: info
   };
 };
 
